@@ -19,14 +19,15 @@ TROLL_KEYWORDS = [
     "ihr schafe",
     "trump ftw",
     "genderwahnsinn",
-    "genderschwachsinn" "klimawahn",
+    "genderschwachsinn",
+    "klimawahn",
     "💙",
     "!!!!!!!!!!!!!!!!!!!",
     "Deutsches Reich",
     "Schwachsinn",
     "fuer",
     "nur die afd",
-    "ae",
+    "aeh",
 ]
 # Initialisiere colorama
 init()
